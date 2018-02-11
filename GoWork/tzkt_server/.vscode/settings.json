@@ -1,7 +1,0 @@
-{
-    "go.useCodeSnippetsOnFunctionSuggest": false,
-    "go.formatTool": "goreturns",
-    "go.goroot": "C:/Go",
-    "go.gopath": "F:/GQX/code/mytstPlay/GoWork/tzkt_server",
-    "go.toolsGopath": "C:/Go",
-}
